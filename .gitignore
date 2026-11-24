@@ -33,6 +33,7 @@ __pycache__/
 # Build / output
 dist/
 build/
+data/
 out/
 coverage/
 .next/
